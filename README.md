@@ -1,2 +1,2 @@
-# python-api-challenge
-module 6 challenge
+# Python-API-Challenge
+Module 6 Challenge
